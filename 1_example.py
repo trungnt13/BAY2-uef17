@@ -3,6 +3,8 @@
 (see, e.g., Blundell et al. (2015); Kucukelbir et al. (2016)).
 
 Inspired by autograd's Bayesian neural network example.
+
+Original code: https://github.com/blei-lab/edward/blob/master/examples/getting_started_example.py
 """
 from __future__ import absolute_import, division, print_function
 
