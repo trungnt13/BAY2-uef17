@@ -1,4 +1,4 @@
-[![Discussion](../master/img/chat.tiff?raw=true))](https://github.com/trungnt13/BAY2-uef17/issues)
+[![Discussion](../master/img/chat.tiff?raw=true)](https://github.com/trungnt13/BAY2-uef17/issues)
 
 # BAY2-uef17
 Bayesian Inference 2, University of Eastern Finland 2017
