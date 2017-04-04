@@ -36,6 +36,11 @@ def load_data():
     To get all halos in "Sky1"
     >>> train['Sky1'][1]
 
+    Note
+    ----
+    Each Galaxy position contain: [x, y, e1, e2]
+    Each Halos position contain: [nb_halo, refX, refY, x1, y1, x2, y2, x3, y3]
+
     Return
     ------
     train_data, test_data
